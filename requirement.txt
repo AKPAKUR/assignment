@@ -1,0 +1,14 @@
+cramjam==2.8.3
+fastparquet==2024.2.0
+fsspec==2024.3.1
+jsonpointer==2.1
+numpy==1.26.4
+pandas==2.2.2
+py4j==0.10.9.7
+pyspark==3.5.1
+python-dateutil==2.9.0
+pytz==2024.1
+setuptools==68.2.2
+six==1.16.0
+tzdata==2024.1
+wheel==0.41.2
