@@ -24,7 +24,7 @@ steps:
 Create a Dockerfile to package your PySpark script and its dependencies:
 `
 FROM pyspark/pyspark:latest
-COPY etl.py /etl.py
+COPY src/etl.py /etl.py
 CMD ["spark-submit", "/etl.py"]
 
 `
